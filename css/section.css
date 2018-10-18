@@ -1,0 +1,13 @@
+.section {
+    overflow: hidden;
+}
+
+.section-header {
+    padding: 1em;
+}
+
+.section-input,
+.section-output {
+    width: 50%;
+    height: 100%;
+}
