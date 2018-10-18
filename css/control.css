@@ -22,3 +22,8 @@
 .control-input:-moz-placeholder { /* Firefox 18- */
     color: #ffffff;
 }
+
+.control-output {
+    word-break: break-word;
+    white-space: normal;
+}

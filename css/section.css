@@ -13,5 +13,5 @@
 }
 
 .section-output {
-    border-left: 1px dotted white;
+    border-left: 1px dotted rgba(255, 255, 255, .6);
 }
