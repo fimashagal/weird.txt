@@ -11,3 +11,7 @@
     width: 50%;
     height: 100%;
 }
+
+.section-output {
+    border-left: 1px dotted white;
+}

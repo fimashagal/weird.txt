@@ -16,7 +16,7 @@ define(function (require) {
         });
 
         this.data.addReflect('textContent', text => {
-            this.output(this.convertTextToWeird(text));
+            this.output(this.convertTextToWeird(text === "" ? "And see you result here" : text));
         });
 
         return Typo.isntEmpty(options) ? this.initialize(options) : this;
